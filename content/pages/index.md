@@ -42,7 +42,7 @@ sections:
       title:
         textAlign: left
         fontStyle: italic
-        fontWeight: 400
+        fontWeight: 500
       subtitle:
         textAlign: left
       text:
