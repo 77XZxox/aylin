@@ -39,7 +39,7 @@ sections:
       Graphiste
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/5d670f47ad6c923c86d2d068dbbde3ba.png
       altText: Hero image
     styles:
       self:
