@@ -40,7 +40,7 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: center
         fontStyle: italic
         fontWeight: 400
       subtitle:
