@@ -79,7 +79,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: Les Application que je utilise
+    subtitle: L'application que je utilise
     images:
       - type: ImageBlock
         url: /images/images__1_-removebg-preview.png
