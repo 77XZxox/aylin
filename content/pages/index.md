@@ -43,7 +43,6 @@ sections:
         textAlign: center
         fontStyle: italic
         fontWeight: 400
-        textDecoration: underline
       subtitle:
         textAlign: left
       text:
