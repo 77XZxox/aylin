@@ -144,12 +144,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      [77xoxsaz@gmail.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
