@@ -13,11 +13,35 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## **Bonjour,**
+
+
+      Je m'appelle Aylin, et je suis graphiste passionnée. J'accompagne mes
+      clients dans la création d'identités visuelles uniques, de supports print
+      et digitaux impactants, ainsi que de solutions créatives sur mesure.
+      J'adore travailler sur des projets qui allient esthétique et efficacité,
+      tout en apportant une touche personnelle à chaque réalisation.
+
+
+      Que ce soit pour des logos, des affiches, des bannières ou des visuels
+      pour les réseaux sociaux, je mets un point d'honneur à donner vie à vos
+      idées et à refléter au mieux votre identité visuelle.
+
+
+      Je serais ravie d'échanger avec vous pour discuter de vos besoins et vous
+      accompagner dans vos projets créatifs.
+
+
+      À bientôt !
+
+
+      **Aylin**
+
+      Graphiste
+
+
+
     media:
       type: ImageBlock
       url: /images/about.jpg
