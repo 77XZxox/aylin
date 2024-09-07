@@ -14,12 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Bonjour,Je m'appelle Aylin, et je suis graphiste. J'adore travailler sur
+      des projets qui allient esthétique et efficacité, tout en apportant une
+      touche personnelle à chaque réalisation.Que ce soit pour des logos, des
+      affiches, des bannières ect... je mets un point d'honneur à donner vie à
+      vos idées et à refléter au mieux vos idée !
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Je serais ravie d'échanger avec vous pour discuter de vos besoins et vous
+      accompagner dans vos projets créatifs  Aylin 
     styles:
       self:
         height: auto
@@ -38,7 +40,9 @@ sections:
         justifyContent: center
         flexDirection: row-reverse
       title:
-        textAlign: left
+        textAlign: center
+        fontStyle: italic
+        fontWeight: 400
       subtitle:
         textAlign: left
       text:
@@ -84,7 +88,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
