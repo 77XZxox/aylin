@@ -14,8 +14,16 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      Bonjour,Je m'appelle Aylin, et je suis graphiste passionnée. J'accompagne
+      mes clients dans la création d'identités visuelles uniques, de supports
+      print et digitaux impactants, ainsi que de solutions créatives sur mesure.
+      J'adore travailler sur des projets qui allient esthétique et efficacité,
+      tout en apportant une touche personnelle à chaque réalisation.Que ce soit
+      pour des logos, des affiches, des bannières ou des visuels pour les
+      réseaux sociaux, je mets un point d'honneur à donner vie à vos idées et à
+      refléter au mieux votre identité visuelle.Je serais ravie d'échanger avec
+      vous pour discuter de vos besoins et vous accompagner dans vos projets
+      créatifs.À bientôt !AylinGraphiste
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
