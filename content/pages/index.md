@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: >-
       Bonjour,Je m'appelle Aylin, et je suis graphiste passionnée. J'accompagne
       mes clients dans la création d'identités visuelles uniques, de supports
