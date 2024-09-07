@@ -82,7 +82,7 @@ sections:
     subtitle: Les Application que je utilise
     images:
       - type: ImageBlock
-        url: /images/images (1).png
+        url: /images/images__1_-removebg-preview.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
