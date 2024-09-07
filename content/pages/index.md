@@ -21,7 +21,7 @@ sections:
       vos idées et à refléter au mieux vos idée !
     subtitle: >-
       Je serais ravie d'échanger avec vous pour discuter de vos besoins et vous
-      accompagner dans vos projets créatifs 
+      accompagner dans vos projets créatifs  
     styles:
       self:
         height: auto
