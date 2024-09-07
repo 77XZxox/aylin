@@ -82,7 +82,7 @@ sections:
     subtitle: Les Application que je utilise
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/images (1).png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
