@@ -4,7 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/featured-Image2.jpg
+  url: /images/5d670f47ad6c923c86d2d068dbbde3ba.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
